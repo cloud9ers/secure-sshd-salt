@@ -1,5 +1,6 @@
 # What is it
-Salt recipe to automatically secure sshd hard enough to piss off the NSA!
+Salt recipe to automatically secure sshd hard enough to piss off the NSA! 
+Automation work done by [Cloud9ers.com](http://cloud9ers.com), feel free to contact us for anything
 
 # Installation
 This salt recipe only supports rhel/centos 7 style operating systems. Pull requests to support more OSs are welcome. The reason for not supporting older rhel OSs, is that sshd version 6.5 or better is required
